@@ -45,6 +45,6 @@ Devem ser executados na seguinte ordem:
   - Os discursos formatados em `formata-texto`
   - Os discrusos classificados por `buscador-da-ditadura`
 
-Além disso, o diretório contém o arquivo `DISCURSOS-CHECADOS-MANUALMENTE`, que é a base de dados que alimentou a matéria, e `sneakpeek`, que é uma tabela com trechos que foram destacados no corpo da reportagem. Estes foram criados e checados a mão.
+  Além disso, o diretório contém o arquivo `DISCURSOS-CHECADOS-MANUALMENTE`, que é a base de dados que alimentou a matéria, e `sneakpeek`, que é uma tabela com trechos que foram destacados no corpo da reportagem. Estes foram criados e checados a mão.
 
 `jsons`: Os arquivos necessários para gerar a visualização de dados do site.
